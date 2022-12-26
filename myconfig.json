@@ -1,0 +1,12 @@
+{
+  "lambda": {
+    "role": "items-api-executor",
+    "name": "items-api",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "gjmeyxm8e5",
+    "module": "app",
+    "url": "https://gjmeyxm8e5.execute-api.us-east-1.amazonaws.com/latest"
+  }
+}
